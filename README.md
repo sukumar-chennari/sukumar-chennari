@@ -17,7 +17,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Software Engineer Trainee** with **1.5 years of experience** crafting responsive and dynamic web applications using the MERN stack. I love turning ideas into reality through clean code and intuitive design.
+I'm a passionate **Software Engineer** with **1.5 years of experience** crafting responsive and dynamic web applications using the MERN stack. I love turning ideas into reality through clean code and intuitive design.
 
 - 🔭 **Currently Working on:** Full-stack web apps with React & Node.js
 - 🌱 **Always Learning:** New tools, patterns, and best practices in web development
