@@ -8,7 +8,7 @@
 
 # Hi, I'm Sukumar Chennari! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer+Trainee+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Building+Awesome+Web+Apps+%E2%9C%A8;1.5+Years+of+Hands-on+Experience+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Building+Awesome+Web+Apps+%E2%9C%A8;1.5+Years+of+Hands-on+Experience+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
